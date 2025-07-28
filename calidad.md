@@ -7,7 +7,7 @@ Porque permite controlar la calidad del código automáticamente: detecta bugs, 
 
 ---
 
-## 📌 Aplicación al Proyecto
+##  Aplicación al Proyecto
 
 ### Caso de uso:
 En el módulo de "búsqueda de perfiles", usaremos SonarQube para validar la calidad del código backend (Node.js) y frontend (React).
@@ -19,7 +19,7 @@ Se correrá:
 
 ---
 
-## 🧪 Objetivos de calidad
+## Objetivos de calidad
 
 - Reducir la deuda técnica desde el primer sprint.
 - Asegurar mantenibilidad y testabilidad del código.

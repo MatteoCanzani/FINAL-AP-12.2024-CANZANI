@@ -5,9 +5,9 @@ SkillConnect es una plataforma que conecta personas con habilidades complementar
 
 ---
 
-## 🎯 Objetivos Generales
+## Objetivos Generales
 
-### 🔸 OKR
+### OKR
 
 **Objetivo:** Conectar talentos tecnológicos y facilitar la creación de equipos.
 
@@ -17,7 +17,7 @@ SkillConnect es una plataforma que conecta personas con habilidades complementar
 
 ---
 
-### 🔹 SMART
+### SMART
 
 - **S**: Crear un MVP de SkillConnect con funcionalidades básicas (registro, búsqueda, match).
 - **M**: Lanzarlo dentro de 60 días y obtener al menos 100 matches en el primer mes.
